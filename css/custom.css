@@ -1,0 +1,45 @@
+.iframe {
+    text-align: center;
+    width: 100%;
+    vertical-align: middle;
+    height: 100%;
+    display: inline-block;
+}
+
+.wp-header {
+text-align: right
+}
+
+.body {
+    background-color: #222;
+
+}
+
+    ul.centerUL {
+        margin: 2px auto;
+        line-height: 1.4;
+        padding-left: 0;
+    }
+    .centerUL li {
+        display: inline;
+        text-align: center;
+    }
+.main-nav {
+    text-align: center;
+    background-color: #1784bc;
+    border-bottom: 5px solid #0d6b9b;
+    border-top: 1px solid #349dd3;
+    height: 55px;
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+}
+
+.center {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    align-content: center;
+}
